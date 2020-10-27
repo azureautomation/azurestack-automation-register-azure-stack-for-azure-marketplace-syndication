@@ -1,0 +1,20 @@
+{
+    "Author": "Gary Gallanes [MSFT]",
+    "ContentSize": 3818,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azurestack-automation-register-azure-stack-for-azure-marketplace-syndication/master/Set-AzSRegistration.ps1",
+    "DownloadCount": 894,
+    "Id": "AzureStack-Automation-57da8b01",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 490,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-5-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": ".DESCRIPTIPON - \u00a0\u00a0For ASDK 1-Node Only - Register Azure Stack ASDK with Azure for Marketplace Syndication. Imports Azure Stack Modules and Tools and sets up Cloud Operator ARM endpoint PowerShell environment. For Azure Cloud enabled deployment. Registers AzureStack resource provi",
+    "Title": "AzureStack Automation: Register Azure Stack for Azure Marketplace Syndication",
+    "UpdatedDate": "2018-9-11T00:00:00",
+    "Url": "https://github.com/azureautomation/azurestack-automation-register-azure-stack-for-azure-marketplace-syndication",
+    "UserTags": "Powershell, Powershell Script, Windows PowerShell"
+}
